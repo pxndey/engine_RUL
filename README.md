@@ -1,4 +1,4 @@
-# aicraft_engine_reilability
+# engine_RUL
 
 A dual RNN based approach to predict Remaining Useful Life (RUL) of aircraft engines using sensor data. 
 
